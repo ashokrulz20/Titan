@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_F-FemaleM-MaleU-Unknown</name>
+   <tag></tag>
+   <elementGuidId>a71d3f24-1131-4e35-a82a-6731257836a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#patientGender</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='patientGender']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8ab0d982-b85e-46e4-b127-534f12dad694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>773140d2-130f-4919-8fbb-5918c7a8232b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>patientGender</value>
+      <webElementGuid>e89ca5f5-8aee-4a25-84d6-380678c6193b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-small col-xs-6 col-md-6 errField</value>
+      <webElementGuid>c06d47e7-10d6-4adf-b4fe-1d7af69c013e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-msg</name>
+      <type>Main</type>
+      <value>Gender:</value>
+      <webElementGuid>6494137c-1494-48ca-8ca7-37f161309460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>patientGender</value>
+      <webElementGuid>ffa769ed-ca39-48f8-b42c-3014cd2bb641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-req</name>
+      <type>Main</type>
+      <value>Y</value>
+      <webElementGuid>098b1306-f0f7-4e13-9cb4-869517cbbbf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>163f1d8e-d2ab-40cc-8930-9c8dc5a34b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>cmb</value>
+      <webElementGuid>c84a9b10-0bfa-4151-9435-accc1ff32b84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-validate-group</name>
+      <type>Main</type>
+      <value>patientGender</value>
+      <webElementGuid>c9b29c45-2f0c-4d3a-8058-d2d69897ffc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>patientGender_span</value>
+      <webElementGuid>0d00f49d-1239-47dd-9095-88b23e592d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+     
+F-Female
+M-Male
+U-Unknown
+</value>
+      <webElementGuid>908b35b8-f00f-4e69-8bc1-42c9593e620f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;patientGender&quot;)</value>
+      <webElementGuid>f32110c0-1964-428c-afdd-aa69123308a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='patientGender']</value>
+      <webElementGuid>3c456328-1b22-4f82-b7bf-ed0101972498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldsetbeneficiaryInfo']/div[4]/div[2]/select</value>
+      <webElementGuid>89699bc4-7e80-451b-b0ce-6cc1bf777e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::select[1]</value>
+      <webElementGuid>f0337606-ddb1-4b95-8eea-f8644d7419ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/select</value>
+      <webElementGuid>2e537d6a-78fc-45b0-a617-77caf9f9a09e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'patientGender' and @id = 'patientGender' and (text() = '
+     
+F-Female
+M-Male
+U-Unknown
+' or . = '
+     
+F-Female
+M-Male
+U-Unknown
+')]</value>
+      <webElementGuid>8a8ea9ff-3da7-476a-9b00-081378f90671</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

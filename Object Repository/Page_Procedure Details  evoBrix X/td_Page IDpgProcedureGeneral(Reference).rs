@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Page IDpgProcedureGeneral(Reference)</name>
+   <tag></tag>
+   <elementGuidId>722c6914-930b-4a1d-8730-5f8366c667ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.span4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='footer']/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>288dfcf1-8567-40d8-ad95-b24bfbf4109f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>span4</value>
+      <webElementGuid>f5f95d1a-840b-4f81-8cda-4f0d2de8fbd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Page ID: pgProcedureGeneral(Reference) </value>
+      <webElementGuid>47daaa97-5b10-44a5-961e-ded0a3c6d2d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/table[@class=&quot;no-print&quot;]/tbody[1]/tr[1]/td[@class=&quot;span4&quot;]</value>
+      <webElementGuid>10c16813-945d-4eb5-b0e7-7f42906d3074</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='footer']/table/tbody/tr/td</value>
+      <webElementGuid>7710accc-3fee-4d19-9bc4-7f99ef7f6fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GO'])[2]/following::td[1]</value>
+      <webElementGuid>1b611823-bcd9-4194-b1f4-0498390adf69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Records Found!'])[2]/following::td[1]</value>
+      <webElementGuid>833a3d69-c736-4f79-924d-9292ba1caf96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment: Demo'])[1]/preceding::td[1]</value>
+      <webElementGuid>3a5c617c-54a2-4747-ab9b-9f0f8589beae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Server Time: 03/01/2023 12:41:17 IST'])[1]/preceding::td[2]</value>
+      <webElementGuid>3fddb974-d80f-49a1-b1f8-5fd18e101fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Page ID: pgProcedureGeneral(Reference)']/parent::*</value>
+      <webElementGuid>d66b5ac3-2188-4c52-8f16-ed067edaf2e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/table/tbody/tr/td</value>
+      <webElementGuid>9a32b217-43ad-419b-a5bb-47c0d96ff46a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Page ID: pgProcedureGeneral(Reference) ' or . = 'Page ID: pgProcedureGeneral(Reference) ')]</value>
+      <webElementGuid>4d871d18-1bd8-4e6e-b941-00fab058d5ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

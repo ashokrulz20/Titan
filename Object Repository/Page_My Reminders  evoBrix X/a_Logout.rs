@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Logout</name>
+   <tag></tag>
+   <elementGuidId>29846c80-bbe4-40f0-9e1e-9bbf64a7642c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;menuAction('/d7hHZ7uiDjFxpcTYhGxSGCvR8ZoZWdyTdNHLh5x+9BcDER9rvMZ8cQ==');&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09c0936c-2684-497e-9a3e-1d356137e486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>aaaad53a-0bec-4c36-8cd2-cb997b0b7a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>menuAction('/d7hHZ7uiDjFxpcTYhGxSGCvR8ZoZWdyTdNHLh5x+9BcDER9rvMZ8cQ==');</value>
+      <webElementGuid>d395654e-d857-4b3c-8059-8f13328d7e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>65851bb1-6382-4974-8cda-1fa4320ae376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+								
+							   
+							   Logout</value>
+      <webElementGuid>163484c9-0c2a-46ee-abfb-572480f544c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-menu&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;nav-collapse collapse&quot;]/ul[@class=&quot;navbar-nav topbar-nav ml-md-auto align-items-center&quot;]/li[@class=&quot;nav-item dropdown hidden-caret submenu open&quot;]/div[@class=&quot;dropdown-menu quick-actions quick-actions-info animated fadeIn&quot;]/div[@class=&quot;scroll-wrapper dropdown-user-scroll scrollbar-outer&quot;]/div[@class=&quot;dropdown-user-scroll scrollbar-outer scroll-content&quot;]/ul[1]/li[4]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>4b5b0508-f5ab-46ba-83be-31120bcdf257</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;menuAction('/d7hHZ7uiDjFxpcTYhGxSGCvR8ZoZWdyTdNHLh5x+9BcDER9rvMZ8cQ==');&quot;]</value>
+      <webElementGuid>796021b1-20b7-48ee-885f-5127fc2e4514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-menu']/div[2]/div/ul[2]/li[4]/div/div[2]/div/ul/li[4]/a</value>
+      <webElementGuid>7f6f7345-fbd7-4f60-8277-e4392222c83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[evoBrix X]Super Administrator'])[1]/following::a[2]</value>
+      <webElementGuid>8a55ec1f-1758-4eb5-8705-21f818b6415c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[evoBrix X] View Only'])[1]/following::a[3]</value>
+      <webElementGuid>89d34d2e-c297-483a-bb96-dad085dbd165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[1]/preceding::a[3]</value>
+      <webElementGuid>3ce8e096-c5cc-444f-8955-3a46efbd739d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Announcements'])[1]/preceding::a[4]</value>
+      <webElementGuid>f9817f00-f6f6-4fcc-b1c6-76caef5a2a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>e9685280-1f8e-4455-8de9-642b569b71b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[568]</value>
+      <webElementGuid>9944d795-53a0-4ea9-a289-1c80b4e7aa39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/div[2]/div/ul/li[4]/a</value>
+      <webElementGuid>5208afd3-fa39-4f4e-92ad-4f1ae047b91f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+								
+							   
+							   Logout' or . = '
+								
+							   
+							   Logout')]</value>
+      <webElementGuid>5ed13b2e-6687-432e-b014-fc881c5e3fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;menuAction('/IfGxqzXG2XQu6luOqXIlTP4lLA7iCVRhZU87/C/65NuGRQ3QZPgxUw==');&quot;]</value>
+      <webElementGuid>44afc3c8-c718-4adc-884c-1702d8246021</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

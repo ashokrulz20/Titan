@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Inquire Claims</name>
+   <tag></tag>
+   <elementGuidId>d011ae98-5b7c-460a-8496-8dc9f9aea04e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Inquire Claims']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>93ff03d0-eb59-4209-b282-27efc0ee63ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>59f0a2e1-9892-4c95-a66e-c7567b5bfff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>menuAction('/xede8Ipib+GnNWkuyS8iDi00dZO3WjuzvSG0lkRPvgKj5wj/zZqua8SvcdBXAbZ+XhJyiH1srPs=')</value>
+      <webElementGuid>2fdaf289-3669-4c2c-befe-06c0cd2d95d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inquire Claims</value>
+      <webElementGuid>388940d8-6877-4fd6-afe6-eabf52127f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cloud_menu&quot;)/li[@class=&quot;tabsoffline dropdown CLAIMS_active open&quot;]/div[@class=&quot;dropdown-menu pull-right&quot;]/ul[@class=&quot;mainNav&quot;]/li[1]/ul[@class=&quot;unstyled&quot;]/li[16]/a[1]</value>
+      <webElementGuid>d6a7dfbf-5bfc-4dd1-9180-7c42906bd575</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;menuAction('/xede8Ipib+GnNWkuyS8iDi00dZO3WjuzvSG0lkRPvgKj5wj/zZqua8SvcdBXAbZ+XhJyiH1srPs=')&quot;]</value>
+      <webElementGuid>e6322868-0b7c-4703-aad0-78c4fa10ce13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='cloud_menu']/li[4]/div/ul/li/ul/li[16]/a</value>
+      <webElementGuid>38ffd0e8-7890-49ef-8e8e-486bf0e236a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Inquire Claims')]</value>
+      <webElementGuid>3cdf3dd1-1814-42c0-bf71-b42cd39e5c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inquire Claims']/parent::*</value>
+      <webElementGuid>3153d410-0031-45f7-a5c9-99e0a44778c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[133]</value>
+      <webElementGuid>1f2d106c-4392-42cb-ad98-1e4408841255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/ul/li/ul/li[16]/a</value>
+      <webElementGuid>dda487ed-64e5-4214-8951-600822722bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Inquire Claims' or . = 'Inquire Claims')]</value>
+      <webElementGuid>575656c3-5f29-49f3-bbed-3d46f183b669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;menuAction('/Em4MgNTHeT9EEbzvX2U2CGPdJ7rRFpPHu2t9ekuiZJ7xVIerPJcWI5zsNprtnyW5n+52tk3Tmc8=')&quot;]</value>
+      <webElementGuid>20422f25-0777-48bb-ac27-018f111f263d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

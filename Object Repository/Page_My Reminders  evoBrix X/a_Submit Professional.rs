@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Submit Professional</name>
+   <tag></tag>
+   <elementGuidId>7bb3f7f5-2abb-41d5-8992-02820cda9d4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Submit Professional')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>738a571f-ade9-4a2a-8e9b-1a9276ce6b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>542bdf2f-606f-4e61-9688-70a7c9e83da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>menuAction('/2MqAvkYs0RNU+N9bJ3yMnBBvijhzZxAyo3pIum8ZYCdqZKYAzB+jsDKSkqypp2Vr')</value>
+      <webElementGuid>32b0b7a8-6936-4f40-a577-9a022052f98a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit Professional</value>
+      <webElementGuid>5df7fd0b-a348-4fd6-86aa-c78612b1baa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cloud_menu&quot;)/li[@class=&quot;tabsoffline dropdown CLAIMS_active open&quot;]/div[@class=&quot;dropdown-menu pull-right&quot;]/ul[@class=&quot;mainNav&quot;]/li[1]/ul[@class=&quot;unstyled&quot;]/li[2]/a[1]</value>
+      <webElementGuid>8386faca-e51f-46e4-a1fc-f25bdfc5f5c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;menuAction('/2MqAvkYs0RNU+N9bJ3yMnBBvijhzZxAyo3pIum8ZYCdqZKYAzB+jsDKSkqypp2Vr')&quot;]</value>
+      <webElementGuid>12f64d2a-b7db-4361-828e-b6b2c6d983a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='cloud_menu']/li[4]/div/ul/li/ul/li[2]/a</value>
+      <webElementGuid>f3d7cdc0-cae4-4412-aede-f7ffe389718e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Submit Professional')]</value>
+      <webElementGuid>5734c555-7360-4c7a-ab50-c82d9ac8f3a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claims'])[1]/following::a[1]</value>
+      <webElementGuid>03abc18d-43ab-49fe-a108-3efa740f01b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit Professional']/parent::*</value>
+      <webElementGuid>75395143-9e1c-4622-a3de-2b5352b11cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[110]</value>
+      <webElementGuid>a9920bdf-1adf-48e5-854a-4d6ee3330e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/ul/li/ul/li[2]/a</value>
+      <webElementGuid>1fa9bda3-a111-4b71-95eb-2d8c479179a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Submit Professional' or . = 'Submit Professional')]</value>
+      <webElementGuid>1efc9efc-813d-458c-877d-b66787e0fb14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

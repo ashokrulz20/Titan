@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Claims_SubmitAdjudication</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>8e2e9f07-3e5f-4e09-9378-f64d9cd4de44</testSuiteGuid>
+   <testCaseLink>
+      <guid>7dc91605-b43c-44c1-b301-9dfd5a0a7e9f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Test Cases/Cloud1_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c2aa00da-2bae-4ded-b5f0-85f9d8947c87</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>b384ff48-1433-4404-b5a9-90566a3892c8</id>
+         <masked>false</masked>
+         <name>Procedure_Code_value</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Main Test Cases/CLM_SUBMIT_PROF_ONLINE_MF</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d524eb5c-a83d-4a3d-b70c-b927b41894c4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SQL_Submission_Modifier</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5d74427c-3da8-43a3-93bf-49f61d62a810</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SQL_Prof_Proc</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b384ff48-1433-4404-b5a9-90566a3892c8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>012bce0d-3430-4db5-9f0d-3043f88d602d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>061c5c98-f162-4cd9-8d23-7bad8bce4175</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

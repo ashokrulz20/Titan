@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>SQL_Prof_Proc</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>bc8ede05-a463-4127-b1ce-77edb8dd4e4d</dataFileGUID>
+   <dataSourceUrl>jdbc:oracle:thin:@qa-dbevo01.cns-inc.com:1521/PDCDECQA</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName>oracle.jdbc.driver.OracleDriver</driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>WUUyN1RwcTY=</password>
+   <query>SELECT DISTINCT A.PRCDR_CODE 
+FROM PROCEDURE A, PROCEDURE_STATUS B 
+WHERE A.PROCEDURE_IID = B.PROCEDURE_IID 
+AND A.PRCDR_CTGRY_LKPCD = 'P' 
+and B.OPRTNL_FLAG='A' and A.PRCDR_CODE&lt;>'0001' ORDER BY DBMS_RANDOM.VALUE FETCH FIRST 1 ROWS ONLY</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>PRDMMIS</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

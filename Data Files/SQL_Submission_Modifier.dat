@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>SQL_Submission_Modifier</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>bc8ede05-a463-4127-b1ce-77edb8dd4e4d</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password></password>
+   <query>select distinct MDFR_CODE from MODIFIER_STATUS where OPRTNL_FLAG='A' ORDER BY DBMS_RANDOM.VALUE FETCH FIRST 1 ROWS ONLY</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user></user>
+   <usingGlobalDBSetting>true</usingGlobalDBSetting>
+</DataFileEntity>

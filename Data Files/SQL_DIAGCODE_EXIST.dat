@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>SQL_DIAGCODE_EXIST</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>9fba3003-02b9-4ec7-b528-adbfe7c0990b</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName>oracle.jdbc.driver.OracleDriver</driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>WUUyN1RwcTY=</password>
+   <query>SELECT * FROM DIAGNOSIS A, DIAGNOSIS_STATUS B, DIAGNOSIS_DETAIL C WHERE 
+A.DIAGNOSIS_IID = B.DIAGNOSIS_IID  AND A.DIAGNOSIS_IID = C.DIAGNOSIS_IID  AND B.OPRTNL_FLAG = 'A' and
+B.TO_DATE=to_date('12/31/2999','mm/dd/yyyy') 
+and ROWNUM&lt;=1</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>PRDMMIS</user>
+   <usingGlobalDBSetting>true</usingGlobalDBSetting>
+</DataFileEntity>

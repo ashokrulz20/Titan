@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>New Test Data</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>601425b2-8d1e-4b84-8d1f-34bff468f3fc</dataFileGUID>
+   <dataSourceUrl>jdbc:oracle:thin:@qa-dbevo01.cns-inc.com:1521/PDCDECQA</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName>oracle.jdbc.driver.OracleDriver</driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>WUUyN1RwcTY=</password>
+   <query>&quot;select TCN from AD_CLAIM_HEADER 
+WHERE BSNS_STATUS_CID ='71'
+AND APLCTN_STATUS_CID ='130'
+AND CLM_SOURCE_CODE   ='01'
+AND INVOICE_TYPE_LKPCD='I'
+and ROWNUM &lt;=1&quot;</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>PRDMMIS</user>
+   <usingGlobalDBSetting>true</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_123456789101112</name>
+   <tag></tag>
+   <elementGuidId>e9a3cd0c-9f4b-40f2-a9d2-01cccd8213b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#diagnosisPointer1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='diagnosisPointer1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>aa3d89c3-0b45-4052-b446-26ff4009283c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>203ee2af-d1dc-4bfb-89ec-1f6eda95c564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>diagnosisPointer1</value>
+      <webElementGuid>3f7dd3b4-1cb3-4489-8825-0fce8635d2df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>claims_span6</value>
+      <webElementGuid>d48bd174-1773-4285-83b5-8eccf3a5d943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-msg</name>
+      <type>Main</type>
+      <value>Diagnosis Pointer 1</value>
+      <webElementGuid>659c97e4-9fc4-4ef1-b351-5be5149c20fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>diagnosisPointer1</value>
+      <webElementGuid>3b8922a4-94cc-4cea-b77b-496a52b63658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-req</name>
+      <type>Main</type>
+      <value>Y</value>
+      <webElementGuid>41f82498-a396-4102-9524-4d13c5582758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ecfd4578-e2eb-445d-a18e-331655282afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-validate-group</name>
+      <type>Main</type>
+      <value>diagnosisPointer1</value>
+      <webElementGuid>e9a8c12e-2885-4a08-9c03-1a07983be0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>diagnosisPointer1_span</value>
+      <webElementGuid>0e7d1536-14a0-4531-ac42-c5c032ea82d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Diagnosis Pointers 1</value>
+      <webElementGuid>d9096646-95f1-4cc3-8090-1d8bdbf6eb3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+     
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+</value>
+      <webElementGuid>ada7ffd8-ba9a-4e0a-9030-2617e899a8fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;diagnosisPointer1&quot;)</value>
+      <webElementGuid>ab246432-2f12-4361-87fa-10764243298e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='diagnosisPointer1']</value>
+      <webElementGuid>25e028b1-9271-4132-b9c2-6d180cfc2458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pgGeneral-wrapper']/div/div[2]/div[7]/div[2]/fieldset/div[9]/div[2]/div/div/div/div/select</value>
+      <webElementGuid>42781d6f-73b1-4524-836e-7f1d98b614b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div/div/div/div/select</value>
+      <webElementGuid>57821cae-8ed0-4dfd-a47f-c7edd62925f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'diagnosisPointer1' and @id = 'diagnosisPointer1' and (text() = '
+     
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+' or . = '
+     
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+')]</value>
+      <webElementGuid>4ce4571b-5f69-48d7-9b90-a66e7072ccde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

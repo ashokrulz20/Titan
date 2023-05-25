@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ICD-10-CMICD-9-CM</name>
+   <tag></tag>
+   <elementGuidId>99827b44-c53f-49c4-a48a-056284601327</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#diagnosisCodeCategory</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='diagnosisCodeCategory']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e1374ed2-a051-4b2c-86cd-cb7fbbb36651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>dac2c59b-2506-4882-ae62-6909455cf553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>diagnosisCodeCategory</value>
+      <webElementGuid>ce4de201-1a05-411c-9595-5777e5646185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input input-small</value>
+      <webElementGuid>695c9a53-e157-4ce3-9d0b-7712dc59cedf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-msg</name>
+      <type>Main</type>
+      <value>Diagnosis Code Category</value>
+      <webElementGuid>fb8c9286-0835-433d-bc6d-c6f636039e88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>diagnosisCodeCategory</value>
+      <webElementGuid>9bd3013a-b0a2-4245-98a5-c0d4208dafa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-req</name>
+      <type>Main</type>
+      <value>Y</value>
+      <webElementGuid>8218d89d-ebe8-4989-ae38-cf89f5f21562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d48bf39a-f2bc-4ffc-bdda-a4875e5ad7b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-validate-group</name>
+      <type>Main</type>
+      <value>diagnosisCodeCategory</value>
+      <webElementGuid>e7074492-bf31-4f05-93ce-b7a39f8f0eca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>diagnosisCodeCategory_span</value>
+      <webElementGuid>3c518972-127f-4533-bb53-15a94421ed03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>ClaimNote diagnosisCodeCategory</value>
+      <webElementGuid>616daa88-c6ef-4ca2-99cf-7e1383e2f6de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+     
+ICD-10-CM
+ICD-9-CM
+</value>
+      <webElementGuid>f0cf2dfc-5912-4820-97bb-d57526b7ab76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;diagnosisCodeCategory&quot;)</value>
+      <webElementGuid>15603076-f857-4436-9c2f-ca45c8cc5444</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='diagnosisCodeCategory']</value>
+      <webElementGuid>d3a23d0f-7cdd-4aa6-877f-dba51e305b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pgGeneral-wrapper']/div/div[2]/div[6]/div[2]/div[9]/div/div/div/select</value>
+      <webElementGuid>d539c8ca-3cc9-415a-ad57-83a58a6859f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div/select</value>
+      <webElementGuid>051b9027-5cef-4895-9f82-156aabbe2fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'diagnosisCodeCategory' and @id = 'diagnosisCodeCategory' and (text() = '
+     
+ICD-10-CM
+ICD-9-CM
+' or . = '
+     
+ICD-10-CM
+ICD-9-CM
+')]</value>
+      <webElementGuid>a1b2f196-549d-4625-842a-48aab972df98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CLM_SUBMIT_PROF_ONLINE_MF</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e6e600e-3e37-48f7-b9a1-bf34611915a1</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2d443995-9504-4265-b035-f046aa463bb5</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/SQL_DIAGCODE_EXIST</testDataId>
+   </testDataLinks>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>dee49f57-ffe2-4658-8c68-723e554555be</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/SQL_Submission_Modifier</testDataId>
+   </testDataLinks>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6c7dfcab-7f4b-49e3-b614-26a02f356d57</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/SQL_Prof_Proc</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6c7dfcab-7f4b-49e3-b614-26a02f356d57</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PRCDR_CODE</value>
+      <variableId>b384ff48-1433-4404-b5a9-90566a3892c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>dee49f57-ffe2-4658-8c68-723e554555be</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>MDFR_CODE</value>
+      <variableId>012bce0d-3430-4db5-9f0d-3043f88d602d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>061c5c98-f162-4cd9-8d23-7bad8bce4175</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b384ff48-1433-4404-b5a9-90566a3892c8</id>
+      <masked>false</masked>
+      <name>Procedure_Code_value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>012bce0d-3430-4db5-9f0d-3043f88d602d</id>
+      <masked>false</masked>
+      <name>Modifier</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>061c5c98-f162-4cd9-8d23-7bad8bce4175</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

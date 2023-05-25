@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>poc11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfa71508-83b8-49e5-a48c-051559e1d7ae</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f2a693a-f661-4c9a-995d-a48ef3f6554c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2f2a693a-f661-4c9a-995d-a48ef3f6554c</id>
+      <masked>false</masked>
+      <name>EE</name>
+   </variable>
+</TestCaseEntity>
