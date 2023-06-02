@@ -1,0 +1,2 @@
+cd D:\Katalon_Studio_Engine_Windows_64-8.6.0
+katalonc -propertiesFile="C:\Users\manohara\Katalon Studio\Titan\console.properties" -runMode=console -projectPath="C:\Users\manohara\Katalon Studio\Titan\test.prj"
